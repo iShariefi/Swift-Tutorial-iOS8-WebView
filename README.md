@@ -1,6 +1,6 @@
-##iWeb
+##WebView
 
-#####Swift (iOS 8) Tutorial - WebView
+#####Swift (iOS 8) Tutorial
 
 Code used on [iNfernalBlog](http://blog.infernalgames.co.uk)
 
